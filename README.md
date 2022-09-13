@@ -3,7 +3,7 @@ ___
 ##  <p  align="center"> 😃Hi, I'm Ren, and welcome to my ```interplanetary station - (🌍)```</p>
  
 
-### 💻I'm here share my works and shoot videos on YouTube. Watches and don't be shy!
+### <p  align="center"> 💻I'm here share my works and shoot videos on YouTube. Watches and don't be shy!</p>
 
 ___
 
