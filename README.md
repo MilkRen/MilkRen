@@ -4,10 +4,10 @@ ___
 
 ### 💻I'm here share my works and shoot videos on YouTube. Watches and don't be shy!
 
-#### Social:
-![](https://img.shields.io/badge/YouTube-090909??style=for-the-badge&logo=youtube&logoColor=FF0000)
-
+### Social:
+[![](https://img.shields.io/badge/YouTube-090909??style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCB_7Js6N4JMTnhu9gshcZQw)
 ![](https://img.shields.io/badge/telegram-090909??style=for-the-badge&logo=telegram&)
+
 
 
 ![](https://media2.giphy.com/media/joYf3Ba2phD15ch9Nt/giphy.gif?cid=ecf05e47zgwyy60gbar2kfzsbzotrdptjil0a4ngc0q7ku66&rid=giphy.gif&ct=g)
