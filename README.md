@@ -7,9 +7,12 @@ ___
 
 ___
 
+<img align="center" src='https://github.com/MilkRen/MilkRen/blob/main/assets/giphy.gif?raw=true'/>
 
+<p align="center"><a href="https://t.me/MilkRen" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="c" width="40" height="40a"/> </a>
+ <a href="https://www.youtube.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="c" width="40" height="40"/> </a> </p>
 
-## Social: [![](https://img.shields.io/badge/YouTube-090909??style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCB_7Js6N4JMTnhu9gshcZQw) [![](https://img.shields.io/badge/telegram-090909??style=for-the-badge&logo=telegram&)](https://t.me/MilkRen)
+___
 
 <img align=right src='https://media2.giphy.com/media/joYf3Ba2phD15ch9Nt/giphy.gif?cid=ecf05e47zgwyy60gbar2kfzsbzotrdptjil0a4ngc0q7ku66&rid=giphy.gif&ct=g'/>
 </br>
@@ -31,6 +34,7 @@ ___
 ## Most used Languages ---> 
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs?username=MilkRen&show_icons=true&theme=react&locale=en&layout=compact&count_private=true'/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=milkren&show_icons=true&theme=react&locale=en&layout=compact&count_private=true" alt="milkren" />
+
 
 
 <h3 align="left">Languages and Tools:</h3>
