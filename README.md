@@ -16,7 +16,6 @@ ___
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> 
  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -32,22 +31,6 @@ ___
 
 ___
 
-<img align=right src='https://media2.giphy.com/media/joYf3Ba2phD15ch9Nt/giphy.gif?cid=ecf05e47zgwyy60gbar2kfzsbzotrdptjil0a4ngc0q7ku66&rid=giphy.gif&ct=g'/>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-<p align="Left"> Lookit how beautiful they dance :3
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-___
 
 ## Most used Languages ---> 
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs?username=MilkRen&show_icons=true&theme=react&locale=en&layout=compact&count_private=true'/>
